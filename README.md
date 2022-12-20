@@ -1,2 +1,2 @@
-# Examen_GitHub
-Examen
+*.dat
+/Camilo/
